@@ -1,0 +1,28 @@
+{
+    "name": "dandoescode/uhoh",
+    "description": "An error handling package.",
+    "version": "0.0.1",
+    "homepage": "https://github.com/dandoescode/uhoh",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "keywords": [
+        "uhoh",
+        "error",
+        "error handling"
+    ],
+    "authors": [
+        {
+            "name": "Dan Horrigan",
+            "email": "me@dandoescode.com",
+            "homepage": "http://www.dandoescode.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "UhOh": "src/"
+        }
+    }
+}
